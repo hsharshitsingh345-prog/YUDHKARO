@@ -1,0 +1,19 @@
+{
+  "name": "yudhkaro",
+  "version": "1.0.0",
+  "description": "YUDHKARO: 3D Political Satire Fighting Game with Dynamic Face Photo Projection",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "fighting-game",
+    "threejs",
+    "webgl",
+    "political-satire",
+    "face-projection",
+    "arcade"
+  ],
+  "author": "DEVIL'S LAB <hsharshitsingh345@gmail.com>",
+  "license": "MIT"
+}

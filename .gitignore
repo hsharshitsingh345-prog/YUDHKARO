@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Media & Temp Files
+*.mp4
+*.mkv
+*.webm
+*.avi
+*.py
+*.log
+*.tmp
+*.bak
+test_server.js
+
+# Reverse Engineering Artifacts
+fightkaro_*.js
+fightkaro_index.html
+
+# OS and Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
